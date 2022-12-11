@@ -1,0 +1,13 @@
+Postgres in Docker Compose and Python script to work with DB
+
+1. docker-compose up -d # to run Postgres locally
+2. docker exec -it <container_name> bash; 
+3. psql postgres postgres # connect to DB 
+4. \d # verify table
+5. \d company # verify table
+
+
+
+Links
+https://www.tutorialspoint.com/postgresql/postgresql_python.htm
+
