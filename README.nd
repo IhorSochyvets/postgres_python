@@ -11,3 +11,7 @@ Postgres in Docker Compose and Python script to work with DB
 Links
 https://www.tutorialspoint.com/postgresql/postgresql_python.htm
 
+
+TODO
+- application logs
+- email notification
